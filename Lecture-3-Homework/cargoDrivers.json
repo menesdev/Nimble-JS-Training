@@ -1,0 +1,27 @@
+[[
+  "1"
+],{
+  "name": "2",
+  "location": "3",
+  "destination": "4",
+  "product": "5",
+  "delivers": "6"
+},"Yusuf","Ankara","Sungurlu","Airpods",[
+  "7"
+],{
+  "customer": "8",
+  "cargoDriver": "1",
+  "product": "5"
+},{
+  "name": "9",
+  "address": "4",
+  "orders": "10"
+},"Mustafa",[
+  "11"
+],{
+  "customer": "8",
+  "cargoDriver": "1",
+  "product": "5",
+  "cargoDriversLocation": "3",
+  "customersAddress": "4"
+}]
